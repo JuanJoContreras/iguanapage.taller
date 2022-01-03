@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  background-color: #000000;
+  color: #ffffff;
+  /*font-family: "raleway", sans-serif #1e1a13 0% 0%;*/
+}
+h1 {
+  text-align: center;
+  font-weight: 500;
+  font-size: 3rem;
+  font: normal normal medium 50px/59px Raleway;
+}
+h2 {
+  text-align: center;
+  font: normal normal medium 40px/47px Raleway;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  font-weight: "Raleway";
+  }
+  
+  p {
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 20px;
+  }
+
+/*span {
+  color: green;
+}*/
+
+.ighead {
+  width: 100%;
+}
+.desc-section {
+  margin: 5rem;
+  vertical-align: middle;
+}
+.desc-img {
+top: 845px;
+left: 731px;
+width: 399px;
+height: 237px;
+border: solid 1px #FFFFFF;
+
+}
+.texto {
+  display: inline-block;
+  width: 30%;
+  padding: 2rem;
+}
+.texto p {
+text-align: left;
+font: normal normal 300 16px/19px Raleway;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.icono-section {
+ /* background-color: #1e1a13;*/
+  text-align: center;
+  background: #1e1a13 0% 0% no-repeat padding-box;
+  opacity: 0.94;
+  text-align:center;
+ /* font-family: "raleway", sans-serif #1e1a13 0% 0%;*/
+   
+}
+.icono {
+  /*display: inline-block;
+  width: 20%;
+  font-size: 5rem;
+  text-align: center;*/
+  display: inline-block;
+  width: 28%;
+  padding: 2%;
+  text-align: center;
+  font-size: 1rem;
+}
+
+
+
+/*.caracteristicas {
+  background: #1e1a13 0% 0% no-repeat padding-box;
+  text-align: center;
+  padding: 50px;
+}
+
+.caracteristicas div {
+  display: inline-block;
+  width: 27%;
+  padding: 2%;
+}*/
+
+.galeria {
+  background-color: #000000;
+  /*display: flow-root;*/
+  color: white;
+}
+
+/*.galeria .centrado {
+  float: left;
+  width: 31%;
+  border: solid 1px #ccc;
+  text-align: center;
+  margin: 1%;
+}*/
+.centrado {
+display: inline-block;
+width: 70%;
+padding: 1%;
+/*float: left;
+  width: 31%;
+  border: solid 1px #FFFFFF;
+  text-align: center;
+  margin: 1%;*/
+
+
+
+}
+.centrado-fotos img {
+  /*display: inline-block;
+  width: 33%;
+  margin: auto;*/
+  /*display: inline-block;*/
+  float: left;
+  width: 29%;
+  border: solid 1px #FFFFFF;
+  text-align: center;
+  margin: 2%;
+
+
+}
+
+.footer {
+  background: #1e1a13 0% 0% no-repeat padding-box;
+  opacity: 0.94;
+  text-align:center;
+  font: normal normal 300 20px/24px Raleway;
+  letter-spacing: 1px;
+  color: #ffffff;
+  opacity: 1;
+  padding: 1rem;
+}
